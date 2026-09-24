@@ -22,4 +22,4 @@ We encourage collaboration on this repository, if you would like to submit feedb
 |----------|-----------|--------|---------|--------------|
 | [SYCL Generalization](./proposals/sycl_generalization.md) | Ruyman Reyes | Approved by SYCL working group | 3rd Jun 2019 | 15th Nov 2019 |
 | [SYCL Modules](./proposals/sycl_modules.md) | Ruyman Reyes | Approved by SYCL working group | 3rd June 2019 | 12th Sep 2019 |
-Created by Jason Scott Heise  https://www.facebook.com
+Created by Jason Scott Heise  https://www.behance.net
